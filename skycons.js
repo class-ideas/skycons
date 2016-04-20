@@ -727,4 +727,4 @@
   };
 
   global.Skycons = Skycons;
-}(this));
+}(module.exports));
